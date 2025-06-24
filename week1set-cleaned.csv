@@ -1,0 +1,18 @@
+URL,Label,url_length,Status,Label encoded
+https://example.com,Phishing,19,Urgent,1
+http://legit-site.org,Legitimate,21,Not urgent,0
+Unknown,Phishing,7,Urgent,1
+https://testsite.net,Unknown,20,Unknown,2
+http://helloworld.in,Legitimate,20,Not urgent,0
+https://phishingsite.com,Phishing,24,Urgent,1
+Unknown,Unknown,7,Unknown,2
+http://secure-login-update.com/verify,Phishing,37,Urgent,1
+https://www.mybank.com/account/login,Legitimate,36,Not urgent,0
+Unknown,Phishing,7,Urgent,1
+https://shop.example.com/product/12345,Unknown,38,Unknown,2
+http://paypal.com-user-security-alert.com/verify-your-account-now,Phishing,65,Urgent,1
+https://mail.google.com/mail/u/0/#inbox,Legitimate,39,Not urgent,0
+http://verylongphishingurl.com/this-is-a-suspicious-link-that-is-over-sixty-characters-long,Phishing,91,Urgent,1
+https://www.example.com/about-us/contact-us,Legitimate,43,Not urgent,0
+http://phishingsite.com/long-url-to-steal-your-information-and-passwords-right-now,Phishing,82,Urgent,1
+https://secure.examplebank.com/onlinebanking/login,Legitimate,50,Not urgent,0
